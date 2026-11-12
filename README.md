@@ -1,5 +1,7 @@
 # Aariv Patel
 
+[![Founding Contributor #12 @draarivpatel-ui](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2312%20of%20100%20%E2%80%A2%20%40draarivpatel-ui&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
+
 I build small apps for the Mac. Most of them are tools for people who work with AI coding agents.
 
 AI coding agents write most of the code under my direction. Every change is reviewed and tested before it ships.
