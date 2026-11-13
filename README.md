@@ -23,5 +23,3 @@ A papercut river island along the bottom of your screen that grows as your AI co
 
 **[Foldertrail](https://github.com/draarivpatel-ui/foldertrail)**
 Turns a Garmin BaseCamp library into GPX files in the same folders, in the browser. The source is published for reference.
-
-More about me at [aariv.me](https://aariv.me).
