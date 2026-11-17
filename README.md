@@ -48,7 +48,7 @@ A papercut river island along the bottom of your screen that grows as your AI co
 Turns a Garmin BaseCamp library into GPX files in the same folders, in the browser. The source is published for reference.
 
 **[Stillfield](https://github.com/draarivpatel-ui/stillfield)**
-Screens videos, GIFs and web pages for flashing that can trigger seizures, from the command line, a GitHub Action or [the browser](https://aariv.me/stillfield/). A screen, not a certification.
+Screens videos, GIFs and web pages for flashing that can trigger seizures, from the command line, a GitHub Action or the browser. A screen, not a certification.
 
 **[Leadline](https://github.com/draarivpatel-ui/leadline)**
-A viewer for EEG and sleep recordings that runs in [the browser](https://aariv.me/leadline/) and never uploads the file. For research and learning, not for diagnosis.
+A viewer for EEG and sleep recordings that runs in the browser and never uploads the file. For research and learning, not for diagnosis.
