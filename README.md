@@ -10,7 +10,7 @@ I build apps for the Mac. Most of them are tools for people who work with AI cod
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-<a href="https://github.com/draarivpatel-ui/wasitme"><img src="assets/new/wasitme-card.jpg" width="360" alt="wasitme showing a timeline of tool errors with your changes and Claude Code updates marked"></a><br>
+<a href="https://github.com/draarivpatel-ui/wasitme"><img src="assets/new/wasitme-card.jpg" width="360" alt="The wasitme site: Was it me, or the model?"></a><br>
 <b><a href="https://github.com/draarivpatel-ui/wasitme">wasitme</a></b><br>
 Was it me, or the model? A timeline of what changed in your Claude Code and Codex sessions.<br>
 <a href="https://draarivpatel-ui.github.io/wasitme/">Try it</a> · <a href="https://draarivpatel-ui.github.io/wasitme/#film">Launch film</a>
