@@ -10,13 +10,13 @@ I build Mac tools for people who work with AI coding agents, and browser apps fo
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-<a href="https://github.com/draarivpatel-ui/stillfield"><img src="https://raw.githubusercontent.com/draarivpatel-ui/stillfield/main/docs/screenshots/report-desktop.png" alt="Stillfield screening a clip that fails the WCAG flash limits"></a><br>
+<a href="https://github.com/draarivpatel-ui/stillfield"><img src="assets/new/stillfield-card.jpg" alt="Stillfield screening a clip that fails the WCAG flash limits"></a><br>
 <b><a href="https://github.com/draarivpatel-ui/stillfield">Stillfield</a></b><br>
 Screens videos, GIFs and web pages for flashing that can trigger seizures. A screen, not a certification.<br>
 <a href="https://aariv.me/stillfield/">Try it</a> · <a href="https://github.com/draarivpatel-ui/stillfield/releases/tag/v0.1.0">Launch film</a>
 </td>
 <td align="center" valign="top" width="50%">
-<a href="https://github.com/draarivpatel-ui/leadline"><img src="https://raw.githubusercontent.com/draarivpatel-ui/leadline/main/docs/screenshot.png" alt="Leadline showing a night of sleep with its stages drawn as depth"></a><br>
+<a href="https://github.com/draarivpatel-ui/leadline"><img src="assets/new/leadline-card.jpg" alt="Leadline showing a night of sleep with its stages drawn as depth"></a><br>
 <b><a href="https://github.com/draarivpatel-ui/leadline">Leadline</a></b><br>
 A viewer for EEG and sleep recordings that runs in the browser and never uploads the file. Not for diagnosis.<br>
 <a href="https://aariv.me/leadline/">Try it</a> · <a href="https://github.com/draarivpatel-ui/leadline/releases/tag/v0.1.0">Launch film</a>
