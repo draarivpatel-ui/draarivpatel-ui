@@ -9,9 +9,21 @@ AI coding agents write most of the code under my direction. Every change is revi
 
 ## Awards
 
-- **2nd Place, Coding Track** at EurekaDev 2026 for [HeatWise](https://devpost.com/software/heatwise)
-- **2nd Place, Prevention and Education Track** at the 2026 International CodeTheCure Hackathon for [ScreenTalk](https://devpost.com/software/screentalk-btpo84)
-- **Two Honorable Mentions** at the Girls Who Code HHS Hackathon 2026 for [Flag Call](https://devpost.com/software/flag-call) and [SourceDesk](https://devpost.com/software/sourcedesk)
+<table>
+<tr>
+<td align="center" valign="top">
+<a href="https://devpost.com/software/heatwise"><img src="assets/awards/eurekadev-2026-heatwise-2nd.jpg" height="210" alt="EurekaDev 2026 certificate: second place, Coding Track, for HeatWise"></a><br>
+<b>2nd Place, Coding Track</b><br>
+EurekaDev 2026 for <a href="https://devpost.com/software/heatwise">HeatWise</a>
+</td>
+<td align="center" valign="top">
+<a href="https://devpost.com/software/screentalk-btpo84"><img src="assets/awards/codethecure-2026-screentalk-2nd.jpg" height="210" alt="International CodeTheCure Hackathon 2026 certificate: second place, Prevention and Education, for ScreenTalk"></a><br>
+<b>2nd Place, Prevention and Education</b><br>
+International CodeTheCure Hackathon 2026 for <a href="https://devpost.com/software/screentalk-btpo84">ScreenTalk</a>
+</td>
+</tr>
+</table>
+
 - **Flisk Founding Contributor #12 of 100** and Hall of Fame (6 kyu, 10 merged pull requests to [flisk-sh/flisk](https://github.com/flisk-sh/flisk))
 
 More hackathon projects are on [Devpost](https://devpost.com/draarivpatel-ui).
