@@ -3,17 +3,17 @@
 [![Founding Contributor #12 @draarivpatel-ui](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2312%20of%20100%20%E2%80%A2%20%40draarivpatel-ui&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
 [![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40draarivpatel_ui%20%E2%80%A2%2013%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
 
-I build Mac tools for people who work with AI coding agents, and browser apps for accessibility and EEG.
+I build apps for the Mac. Most of them are tools for people who work with AI coding agents.
 
 ## New
 
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
-<a href="https://github.com/draarivpatel-ui/stillfield"><img src="assets/new/stillfield-card.jpg" width="360" alt="Stillfield screening a clip that fails the WCAG flash limits"></a><br>
-<b><a href="https://github.com/draarivpatel-ui/stillfield">Stillfield</a></b><br>
-Screens videos, GIFs and web pages for flashing that can trigger seizures. A screen, not a certification.<br>
-<a href="https://aariv.me/stillfield/">Try it</a> · <a href="https://github.com/draarivpatel-ui/stillfield/releases/tag/v0.1.0">Launch film</a>
+<a href="https://github.com/draarivpatel-ui/wasitme"><img src="assets/new/wasitme-card.jpg" width="360" alt="wasitme showing a timeline of tool errors with your changes and Claude Code updates marked"></a><br>
+<b><a href="https://github.com/draarivpatel-ui/wasitme">wasitme</a></b><br>
+Was it me, or the model? A timeline of what changed in your Claude Code and Codex sessions.<br>
+<a href="https://draarivpatel-ui.github.io/wasitme/">Try it</a> · <a href="https://draarivpatel-ui.github.io/wasitme/#film">Launch film</a>
 </td>
 <td align="center" valign="top" width="50%">
 <a href="https://github.com/draarivpatel-ui/leadline"><img src="assets/new/leadline-card.jpg" width="360" alt="Leadline showing a night of sleep with its stages drawn as depth"></a><br>
@@ -24,7 +24,7 @@ A viewer for EEG and sleep recordings that runs in the browser and never uploads
 </tr>
 </table>
 
-## Mac tools
+## Projects
 
 **[Regatta](https://github.com/draarivpatel-ui/regatta)**
 Runs several AI coding agents at once on macOS, with safety rails for operations that change a repository.
@@ -32,11 +32,11 @@ Runs several AI coding agents at once on macOS, with safety rails for operations
 **[Armillary](https://github.com/draarivpatel-ui/armillary)**
 A local-first Mac app that keeps the session history of every AI coding agent you use in one place.
 
-**[wasitme](https://github.com/draarivpatel-ui/wasitme)**
-Was it me, or the model? A timeline of what changed in your Claude Code and Codex sessions.
-
 **[Busyholm](https://github.com/draarivpatel-ui/busyholm)**
 A papercut river island along the bottom of your screen that grows as your AI coding agents work.
+
+**[Stillfield](https://github.com/draarivpatel-ui/stillfield)**
+Screens videos, GIFs and web pages for flashing that can trigger seizures. A screen, not a certification. [Try it](https://aariv.me/stillfield/)
 
 **[Foldertrail](https://github.com/draarivpatel-ui/foldertrail)**
 Turns a Garmin BaseCamp library into GPX files in the same folders, in the browser. The source is published for reference.
