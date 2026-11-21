@@ -1,7 +1,7 @@
 # Aariv Patel
 
 [![Founding Contributor #12 @draarivpatel-ui](https://img.shields.io/static/v1?label=%E2%9A%A1%20FOUNDING%20CONTRIBUTOR&message=%2312%20of%20100%20%E2%80%A2%20%40draarivpatel-ui&color=06b6d4&labelColor=07080f&style=for-the-badge)](https://discord.gg/qMu5Xn8Kaq)
-[![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40draarivpatel_ui%20%E2%80%A2%2013%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
+[![FLISK HALL OF FAME](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40draarivpatel_ui%20%E2%80%A2%2029%20merged%20PRs-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues/1799)
 
 I build apps for the Mac. Most of them are tools for people who work with AI coding agents.
 
@@ -43,7 +43,7 @@ Turns a Garmin BaseCamp library into GPX files in the same folders, in the brows
 
 ## Open source
 
-52 merged pull requests to 21 projects by other people, including [apache/iggy](https://github.com/apache/iggy), [assimp/assimp](https://github.com/assimp/assimp), [MobilityData/gtfs-validator](https://github.com/MobilityData/gtfs-validator) and [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli).
+68 merged pull requests to 21 projects by other people, including [apache/iggy](https://github.com/apache/iggy), [assimp/assimp](https://github.com/assimp/assimp), [MobilityData/gtfs-validator](https://github.com/MobilityData/gtfs-validator) and [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli).
 
 ## Awards
 
@@ -62,6 +62,7 @@ International CodeTheCure Hackathon 2026 for <a href="https://devpost.com/softwa
 </tr>
 </table>
 
-- **Flisk Founding Contributor #12 of 100** and Hall of Fame (6 kyu, 13 merged pull requests to [flisk-sh/flisk](https://github.com/flisk-sh/flisk))
+- **Honorable Mention, twice** at the Girls Who Code HHS Hackathon 2026, for [Flag Call](https://devpost.com/software/flag-call) and [SourceDesk](https://devpost.com/software/sourcedesk)
+- **Flisk Founding Contributor #12 of 100** and Hall of Fame (5 kyu, 29 merged pull requests to [flisk-sh/flisk](https://github.com/flisk-sh/flisk))
 
 More hackathon projects are on [Devpost](https://devpost.com/draarivpatel-ui).
